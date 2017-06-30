@@ -53,7 +53,7 @@
     "can-util": "^3.9.0-pre.4"
   },
   "devDependencies": {
-    "can-list": "^3.1.0-pre.9",
+    "can-list": "^3.2.0",
     "can-map": "^3.1.0-pre.10",
     "documentjs": "^0.4.2",
     "donejs-cli": "^0.9.5",
